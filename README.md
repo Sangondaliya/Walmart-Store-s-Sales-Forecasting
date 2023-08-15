@@ -4,8 +4,7 @@ The objective is predicting store sales using historical markdown data.
 
 You are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store.
 
-### Data 
-/kaggle/input/walmart-recruiting-store-sales-forecasting
+### [Data] (/kaggle/input/walmart-recruiting-store-sales-forecasting)
 
 ### Business Impact
 Understand the significance of accurate sales forecasting. It influences inventory levels, staffing, marketing strategies, and financial planning. Overestimating or underestimating sales can lead to stockouts, excess inventory, and missed revenue opportunities.
